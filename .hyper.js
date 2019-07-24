@@ -1,6 +1,3 @@
-# Configurações para Hyper.js
-
-```javascript
 module.exports = {
   config: {
     updateChannel: 'stable',
@@ -111,4 +108,3 @@ module.exports = {
   // to load it and avoid it being `npm install`ed
   localPlugins: []
 };
-```
